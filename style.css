@@ -1,0 +1,52 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+h2{
+    color: rgb(0, 153, 255);
+}
+h3{
+    color: rgb(165, 77, 42);
+    text-decoration: underline;
+}
+h4{
+    color: rgb(0, 140, 255);
+    text-decoration: underline;
+}
+h5{
+    color: green;
+    text-decoration: underline;
+}
+text{
+    color: rgb(255, 115, 0);
+}
+textt{
+    color: blue;
+}
+N{
+    color: rgb(197, 48, 72);
+}
+B{
+    color: lightcoral;
+}
+k{
+    color: rgb(0, 162, 255);
+}
+th{
+    color: rgb(122, 165, 42);
+}
+e{
+    color: rgb(0, 2, 128);
+}
+v{
+    color: rgb(161, 127, 255);
+}
+L{
+    color: blueviolet;
+}
+x{
+    font-size: 50px;
+}
+y{
+    font-size: 20px;
+}
